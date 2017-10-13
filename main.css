@@ -4,7 +4,7 @@ body {
         justify-content: center;
         align-items: center;
         margin-top: 150px;
-        background-color: grey;
+        background-color: #FACC2E;
 }
 
 h1 {
@@ -12,7 +12,7 @@ h1 {
         font-size: 40px;
         letter-spacing: 2px;
         margin-bottom: 0px;
-        color: pink;
+        color: grey;
 }
 
 .inputSection {
@@ -35,7 +35,7 @@ width: 400px;
 }
 
 button {
-    color: pink;
+    color: #FACC2E;
     background-color: black;
 }
 
